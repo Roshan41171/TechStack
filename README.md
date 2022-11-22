@@ -1,6 +1,6 @@
 # TechStack
 MERN Stack Project
-This is a Full Stack ( MERN Project ) , which is an e-commerce project.
+This is a Full Stack ( MERN Project ) , which is an E-commerce web application.
 About the Project::
 1.Mobiles
 2.Laptops
